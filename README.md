@@ -68,6 +68,6 @@ The model's performance is evaluated using two key metrics:
 The output will also include a visualization:
 
 https://github.com/Shreejita-Biswas/prodigy_task_1/blob/main/Output.png
-*(You can replace this with a screenshot of your actual plot)*
+
 
 This plot helps visually assess the model's accuracy. The closer the points are to the red dashed line, the more accurate the predictions.
